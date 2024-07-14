@@ -11,7 +11,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout code from GitHub repository
-                git 'https://github.com/YourUsername/Website-PRT-ORG.git'
+                git 'https://github.com/Sameer-8080/Website-PRT-ORG'
             }
         }
 
